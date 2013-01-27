@@ -1,0 +1,121 @@
+/* Starter CSS by Mike Cherim - http://green-beast.com */
+
+* {
+}
+
+body {
+  background-color:#000000;
+  color:#00CC00;
+  font-size: 8pt;
+  font-family: Verdana,arial, helvetica, serif;
+  margin: 0;}
+
+#wrapper {
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align:center;}
+
+h1{
+  border:solid;
+  padding-top:5px;
+  padding-bottom:5px;}
+
+p {
+}
+
+a {
+}
+
+a:hover, a:focus, a:active {
+}
+
+a:focus, a:active {
+}
+
+img, a img {
+}
+
+small {
+}
+
+abbr, acronym {
+}
+
+blockquote {
+}
+
+cite {
+}
+
+em {
+}
+
+strong {
+}
+
+form {
+}
+
+fieldset {
+}
+
+legend {
+}
+
+label {
+}
+
+input {
+}
+
+select {
+}
+
+option {
+}
+
+textarea {
+}
+
+input:focus, select:focus, option:focus, textarea:focus {
+}
+
+#header {
+}
+
+#content {
+}
+
+#sidebar {
+}
+
+#navigation {
+}
+
+#footer {
+}
+
+.bold {
+}
+
+.italic {
+}
+
+.hidden {
+}
+
+.offset {
+}
+
+.highlight {
+}
+
+.tiny {
+}
+
+.error {
+}
+
+.abbr {
+}
